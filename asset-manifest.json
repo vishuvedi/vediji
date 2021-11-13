@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vediji/static/css/main.42bf0751.chunk.css",
+    "main.js": "/vediji/static/js/main.dd9414b1.chunk.js",
+    "main.js.map": "/vediji/static/js/main.dd9414b1.chunk.js.map",
+    "runtime-main.js": "/vediji/static/js/runtime-main.f6a7c04d.js",
+    "runtime-main.js.map": "/vediji/static/js/runtime-main.f6a7c04d.js.map",
+    "static/js/2.d3f3542e.chunk.js": "/vediji/static/js/2.d3f3542e.chunk.js",
+    "static/js/2.d3f3542e.chunk.js.map": "/vediji/static/js/2.d3f3542e.chunk.js.map",
+    "static/js/3.7189be85.chunk.js": "/vediji/static/js/3.7189be85.chunk.js",
+    "static/js/3.7189be85.chunk.js.map": "/vediji/static/js/3.7189be85.chunk.js.map",
+    "index.html": "/vediji/index.html",
+    "static/css/main.42bf0751.chunk.css.map": "/vediji/static/css/main.42bf0751.chunk.css.map",
+    "static/js/2.d3f3542e.chunk.js.LICENSE.txt": "/vediji/static/js/2.d3f3542e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vediji/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6a7c04d.js",
+    "static/js/2.d3f3542e.chunk.js",
+    "static/css/main.42bf0751.chunk.css",
+    "static/js/main.dd9414b1.chunk.js"
+  ]
+}
